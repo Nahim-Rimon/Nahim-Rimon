@@ -1,9 +1,9 @@
 ### Hi there, I'm Rimon 👋
 
-## I'm a developer at beginner stage!
-- 🌱 I’m currently learning everything about coding world.
-- &copy;2020 Goals: Improve My Coding Knowledge.
-- ⚡ Fun fact: I love to create things,watching movies and making new friends.
+## I'm a Data Analyst at beginner stage!
+- 🌱 I’m currently working on multiple data science project.
+- &copy;2020 Goals: Become master in my analytical Knowledge.
+- ⚡ Fun fact: I love learning new things, watching Movies & Tv-Series and making new friends.
 
 ### Connect with me:
 
