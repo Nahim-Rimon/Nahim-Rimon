@@ -7,9 +7,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="NahimRimon | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Nahim Rimon | facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="rimonahim | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="NahimRimon | Twitter" width="26px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
+[<img align="left" alt="Nahim Rimon | facebook" width="26px" src="https://img.icons8.com/fluent/48/000000/facebook.png" />][facebook]
+[<img align="left" alt="rimonahim | Instagram" width="26px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="Nahim Rimon | linkedin" width="26px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
 <br/>
 
