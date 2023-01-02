@@ -1,8 +1,8 @@
 ### Hi there, I'm Rimon 👋
 
-## I'm a Data Analyst at beginner stage!
+## I'm a Data Analyst at intermediate stage!
 - ✅ I’m currently working on multiple data science projects.
-- 🚩 2022 - 2023 Goals: Become master in my analytical Knowledge.
+- 🚩 2023 Goals: Become master in my analytical Knowledge.
 - ® Fun fact: I love learning new things🙂, watching Movies & Tv-Series🎬 and making new friends🤝.
 
 ### Connect with me:
